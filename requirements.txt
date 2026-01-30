@@ -3,3 +3,4 @@ streamlit
 plotly
 streamlit-autorefresh
 streamlit-echarts
+openpyxl
