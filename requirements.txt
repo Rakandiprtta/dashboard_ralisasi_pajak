@@ -4,3 +4,4 @@ plotly
 streamlit-autorefresh
 streamlit-echarts
 openpyxl
+altair==4.2.2
