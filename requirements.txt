@@ -1,7 +1,8 @@
+streamlit>=1.26.0
 pandas
-streamlit
 plotly
 streamlit-autorefresh
 streamlit-echarts
 openpyxl
 altair==4.2.2
+setuptools
